@@ -22,6 +22,10 @@
 | pwd | 分享密码，无密码留空 |
 | type=down | 设置该参数直接触发下载 |
 
+
+## 联系作者
+邮箱：<yanghaozhewaaa@126.com>
+
 ## 致谢
 后端源码：[hanximeng/LanzouAPI](https://github.com/hanximeng/LanzouAPI)
 
